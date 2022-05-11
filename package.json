@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "2.5.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "base-path-converter": "^1.0.2",
     "concurrently": "^4.1.1",
     "dotenv": "^8.2.0",
