@@ -44,7 +44,7 @@
     "postinstall": "rimraf node_modules/@types/react-native"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "2.5.0",
+    "@openzeppelin/contracts": "4.7.2",
     "axios": "^0.19.2",
     "base-path-converter": "^1.0.2",
     "concurrently": "^4.1.1",
